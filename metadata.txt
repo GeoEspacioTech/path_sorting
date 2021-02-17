@@ -8,7 +8,7 @@ qgisMinimumVersion=3.0
 description=Change line direction
 version=0.1
 author=Subhadip Datta, Rakesh Kr. Giri
-email=subhadipdatta007@gmail.com, rakeshgiri463@gmail.com
+email=subhadipdatta007@gmail.com
 
 about=Change line direction, if its end point intersect with a point in another pointlayer.
 
