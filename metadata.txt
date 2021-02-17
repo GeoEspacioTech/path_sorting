@@ -5,7 +5,7 @@
 [general]
 name=Path Sorting
 qgisMinimumVersion=3.0
-description=Change line dirction
+description=Change line direction
 version=0.1
 author=Subhadip Datta, Rakesh Kr. Giri
 email=subhadipdatta007@gmail.com, rakeshgiri463@gmail.com
