@@ -6,7 +6,7 @@
 name=Path Sorting
 qgisMinimumVersion=3.0
 description=Change line direction
-version=0.1
+version=0.2
 author=Subhadip Datta, Rakesh Kr. Giri
 email=subhadipdatta007@gmail.com
 
