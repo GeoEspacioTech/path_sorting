@@ -6,14 +6,14 @@
 name=Path Sorting
 qgisMinimumVersion=3.0
 description=Change line direction
-version=0.2
-author=Subhadip Datta, Rakesh Kr. Giri
-email=subhadipdatta007@gmail.com
+version=0.3
+author=GeoEspacio Tech Private Limited
+email=info@geoespaciotech.com
 
 about=Change line direction, if its end point intersect with a point in another pointlayer.
 
-tracker=https://github.com/SubhadipDatta/path_sorting/issues
-repository=https://github.com/SubhadipDatta/path_sorting
+tracker=https://github.com/GeoEspacioTech/path_sorting/issues
+repository=https://github.com/GeoEspacioTech/path_sorting
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=shapefile, line, point, swap, qgis
 
-homepage=https://github.com/SubhadipDatta/path_sorting/wiki
+homepage=https://github.com/GeoEspacioTech/path_sorting/wiki
 category=Vector
 icon=icon.png
 # experimental flag

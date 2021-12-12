@@ -41,14 +41,14 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'PathSorting'
-copyright = u'2013, Subhadip Datta, Rakesh Kr. Giri'
+copyright = u'2013, GeoEspacio Tech Private Limited'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '0.1'
+version = '0.3'
 # The full version, including alpha/beta/rc tags.
 release = '0.1'
 
@@ -179,7 +179,7 @@ htmlhelp_basename = 'TemplateClassdoc'
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'PathSorting.tex', u'PathSorting Documentation',
-   u'Subhadip Datta, Rakesh Kr. Giri', 'manual'),
+   u'GeoEspacio Tech Private Limited', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -212,5 +212,5 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'TemplateClass', u'PathSorting Documentation',
-     [u'Subhadip Datta, Rakesh Kr. Giri'], 1)
+     [u'GeoEspacio Tech Private Limited'], 1)
 ]

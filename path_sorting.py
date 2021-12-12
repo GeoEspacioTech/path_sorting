@@ -8,8 +8,8 @@
                               -------------------
         begin                : 2021-02-16
         git sha              : $Format:%H$
-        copyright            : (C) 2021 by Subhadip Datta, Rakesh Kr. Giri
-        email                : subhadipdatta007@gmail.com, rakeshgiri463@gmail.com
+        copyright            : (C) 2021 by GeoEspacio Tech Private Limited
+        email                : info@geoespaciotech.com
  ***************************************************************************/
 
 /***************************************************************************
